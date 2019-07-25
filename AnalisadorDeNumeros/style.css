@@ -1,0 +1,43 @@
+body {
+    background: rgb(72, 72, 241);
+    
+}
+
+header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    text-align: center;
+}
+
+div#mainContent{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    text-align: center;
+}
+div#mainResult{
+    text-align: center;
+}
+
+button#clickButton{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+section {
+    background: whitesmoke;
+    border-radius: 8px;
+    padding: 12px;
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    box-shadow: 5px 5px 5px rgba(175, 159, 159, 0.445);
+}
+
+footer {
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 20px;
+
+}
+

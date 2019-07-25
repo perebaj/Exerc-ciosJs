@@ -1,0 +1,40 @@
+body {
+    background: rgb(228, 180, 25);
+    
+}
+
+header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(233, 238, 160);
+    text-align: center;
+}
+
+div#mainContent{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    text-align: center;
+}
+div#mainResult{
+    text-align: center;
+}
+
+
+
+section {
+    background: whitesmoke;
+    border-radius: 8px;
+    padding: 12px;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 5px rgba(175, 159, 159, 0.445);
+}
+
+footer {
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 20px;
+
+}
+
